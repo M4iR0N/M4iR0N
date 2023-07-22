@@ -1,7 +1,7 @@
 ---
-title: Welcome to my blog
+title: TryHackMe Writeups
 ---
 
 
-Tryhackme Writeups
+
 
